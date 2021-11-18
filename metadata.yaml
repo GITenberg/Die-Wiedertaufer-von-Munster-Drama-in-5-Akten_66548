@@ -1,0 +1,30 @@
+_repo: Die-Wiedertaufer-von-Munster-Drama-in-5-Akten_66548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kellermann, Bernhard
+    aliases:
+    - Kellermann, B. (Bernhard)
+    - Kellerman, Berngard
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '40548'
+    url: http://www.gutenberg.org/2009/agents/40548
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bernhard_Kellermann
+    - https://de.wikipedia.org/wiki/Bernhard_Kellermann
+description: ''
+gutenberg_issued: '2021-10-16'
+identifiers:
+  gutenberg: '66548'
+  lccn: '25009618'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Anabaptists -- Germany -- Münster in Westfalen -- Drama'
+- GITenberg
+title: 'Die Wiedertäufer von Münster: Drama in 5 Akten'
+url: http://www.gutenberg.org/ebooks/66548
