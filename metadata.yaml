@@ -1,5 +1,8 @@
 _repo: Die-Wiedertaufer-von-Munster-Drama-in-5-Akten_66548
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66548-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellermann, Bernhard
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bernhard_Kellermann
     - https://de.wikipedia.org/wiki/Bernhard_Kellermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66548#Die-Wiedertaufer-von-Munster-Drama-in-5-Akten
 gutenberg_issued: '2021-10-16'
 identifiers:
   gutenberg: '66548'
